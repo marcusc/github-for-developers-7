@@ -2,3 +2,4 @@
 
 * [ ] Done
 * [ ] Color
+* [ ] Local
